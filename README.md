@@ -1,1 +1,1 @@
-# Generative-AI-Projects
+# Repository for fun generative ai projects i'm building
